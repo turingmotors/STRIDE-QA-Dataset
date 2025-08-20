@@ -1,0 +1,14 @@
+tolerance:
+  direction: # +/- 10 degrees of the gt direction
+    range: 10
+    fn: angular_absolute
+
+  distance: # 25 cm when the gt is 1 m
+    range: 0.25
+    fn: relative
+
+  velocity: # +/- 2 m/s when the gt is 10 m/s
+    range: 0.2
+    fn: relative
+    absolute_floor:
+      threshold: 0.5  # Switch to absolute tolerance if gt is below 1.0 m/s
