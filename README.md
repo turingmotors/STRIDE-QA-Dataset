@@ -11,10 +11,10 @@ We propose STRIDE-QA, a large-scale VQA dataset for ego-centric spatiotemporal r
 <img src="assets/strideqa_overview.png" alt="teaser" width=100% height=100%>
 
 ## News
-
+- `[2025-12-22]` Full paper has been accepted to the **AAAI 2026** Main Track as an **Oral** presentation (Paper ID: 23443). (Oral: [Jan 24 3:00-4:00pm](https://aaai.org/wp-content/uploads/2025/12/Main-track-oral-talks.pdf), Poster: [Jan 24](https://aaai.org/wp-content/uploads/2025/12/Main-track-poster-presentations.pdf))
 - `[2025-08-22]` Code and dataset for the **STRIDE-QA Bench** is released. Please refer to the [README](benchmarks/STRIDE-QA-Bench/README.md) for more details.
 - `[2025-08-19]` [arXiv](https://arxiv.org/abs/2508.10427) paper released. Dataset/Benchmark/Models are coming soon. Please stay tuned! :coffee:
-- `[2025-07-13]` Short paper is accepted to the ICCV [End-to-End 3D Learning Workshop](https://e2e3d.github.io/).
+- `[2025-07-13]` Short paper has been accepted to the [ICCV 2025 End-to-End 3D Learning Workshop](https://e2e3d.github.io/iccv2025/).
 
 ## STRIDE-QA Bench
 
