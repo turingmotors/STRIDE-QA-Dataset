@@ -2,15 +2,21 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.10427)&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://turingmotors.github.io/stride-qa/)&nbsp;&nbsp;[![Benchmark Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20STRIDE%20QA-Bench-blue)](https://huggingface.co/datasets/turing-motors/STRIDE-QA-Bench)&nbsp;&nbsp;
+[![AAAI 2026](https://img.shields.io/badge/AAAI%202026-Oral-red)](https://arxiv.org/abs/2508.10427)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://turingmotors.github.io/stride-qa/)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/turingmotors/STRIDE-QA-Dataset)
+[![Dataset](https://img.shields.io/badge/🤗%20HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/turing-motors/STRIDE-QA-Dataset)
+[![Benchmark](https://img.shields.io/badge/🤗%20HuggingFace-Benchmark-yellow)](https://huggingface.co/datasets/turing-motors/STRIDE-QA-Bench)
 
 </div>
 
 We propose STRIDE-QA, a large-scale VQA dataset for ego-centric spatiotemporal reasoning in urban driving scenes, accompanied by a benchmark suite for evaluation.
 
-<img src="assets/strideqa_overview.png" alt="teaser" width=100% height=100%>
+<img src="https://turingmotors.github.io/stride-qa/static/images/pipeline.png" alt="teaser" width=100% height=100%>
 
 ## News
+
+- `[2026-01-23]` STRIDE-QA Dataset is now released on Hugging Face (includes front camera images and JSONL annotations): [turing-motors/STRIDE-QA-Dataset](https://huggingface.co/datasets/turing-motors/STRIDE-QA-Dataset)
 - `[2025-12-22]` Full paper has been accepted to the **AAAI 2026** Main Track as an **Oral** presentation (Paper ID: 23443). (Oral: [Jan 24 3:00-4:00pm](https://aaai.org/wp-content/uploads/2025/12/Main-track-oral-talks.pdf), Poster: [Jan 24](https://aaai.org/wp-content/uploads/2025/12/Main-track-poster-presentations.pdf))
 - `[2025-08-22]` Code and dataset for the **STRIDE-QA Bench** is released. Please refer to the [README](benchmarks/STRIDE-QA-Bench/README.md) for more details.
 - `[2025-08-19]` [arXiv](https://arxiv.org/abs/2508.10427) paper released. Dataset/Benchmark/Models are coming soon. Please stay tuned! :coffee:
@@ -24,6 +30,13 @@ We provide STRIDE-QA Bench as an official framework for evaluating the spatiotem
 - Dataset: [turing-motors/STRIDE-QA-Bench](https://huggingface.co/datasets/turing-motors/STRIDE-QA-Bench)
 
 See the [README.md](benchmarks/STRIDE-QA-Bench/README.md) for installation, usage, and examples.
+
+## Related Links
+
+- Project Page: <https://turingmotors.github.io/stride-qa>
+- Paper: <https://arxiv.org/abs/2508.10427>
+- STRIDE-QA Dataset: <https://huggingface.co/datasets/turing-motors/STRIDE-QA-Dataset>
+- STRIDE-QA Bench: <https://huggingface.co/datasets/turing-motors/STRIDE-QA-Bench>
 
 ## License
 
